@@ -4,7 +4,7 @@ cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 #Database Details
 db_host='173.82.65.242';
 db_user='sftunnel_sftunnel';
-db_pass='A1a2B1b2C';
+db_pass='digi##0550013763';
 db_name='sftunnel_sftunnel';
 
 install_require()
