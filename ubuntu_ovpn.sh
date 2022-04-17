@@ -3,7 +3,7 @@ cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
 HOST='209.159.152.66';
 USER='sftunnel_sftunnel';
-PASS='A1a2B1b2C';
+PASS='digi##0550013763';
 DBNAME='sftunnel_sftunnel';
 
 install_require()
